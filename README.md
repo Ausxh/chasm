@@ -1,6 +1,6 @@
 # Chasm
 
-A vertical Minecraft PvP map where players are divided into attacking and defending teams.
+A vertical Minecraft PvP map where players are divided into attacking and defending teams, created with build, design, and balancing help from [_Oc](https://github.com/Ocarina919).
 
 The distinguishing feature of the map is a large ladder in the center of the map connecting all of the layers of the map, allowing for vertical mobility. There are also side paths that allow players to move between layers.
 
